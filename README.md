@@ -1,1 +1,0 @@
-# Plant-disease-prediction-using-DeepLearning
